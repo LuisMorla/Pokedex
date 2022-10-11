@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@using Pokedex.Core.Application.ViewModel
+@model List<TipoViewModel>
+
+<div class="container-fluid">
+
+    <div class="col-3 offset-12 mb-5">
+        <a asp-controller="Tipo" asp-action="SaveTipo" class="btn btn btn-outline-dark">Agregar un nuevo Tipo</a>
+    </div>
+
+    <div class="row">
+        @if (Model == null || Model.Count == 0)
+        {
+            <h2>No Hay Tipos Registrados</h2>
+
+        }
+        else
+        {
+            @foreach (TipoViewModel item in Model)
+            {
+
+                <div class="col-12 mb-lg-5">
+                    <div class="card">
+                        <div class="card card-header bg-dark text-white">
+                            <h2>Tipo: @item.Name</h2>
+                        </div>
+                        <div class="card card-body  d-flex flex-column">
+                            <h2 class="">@item.Name</h2>
+                            <p class="card-text">@item.Description</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group col-12">
+                                    <a class="btn btn-sm btn-outline-info" asp-controller="Tipo" asp-action="EditTipo" asp-route-id="@item.Id">Editar</a>
+                                    <a class="btn btn-sm btn-outline-danger" asp-controller="Tipo" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+
+
+    </div>
+</div>

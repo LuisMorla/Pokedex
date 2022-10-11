@@ -1,0 +1,72 @@
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\refint\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\ref\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\refint\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\ref\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\refint\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\ref\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\refint\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\ref\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\refint\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\ref\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.deps.json
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\refint\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Pokedex.Core.Domain\obj\Debug\net6.0\ref\Pokedex.Core.Domain.dll

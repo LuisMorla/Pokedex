@@ -1,0 +1,102 @@
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\refint\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION\Pokedex\Database\obj\Debug\net6.0\ref\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\refint\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex with ONION final_version\Pokedex\Database\obj\Debug\net6.0\ref\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\refint\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\luis0\OneDrive\Escritorio\Prog III\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\ref\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\refint\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Inplicito\Pokedex_Modified\Pokedex\Database\obj\Debug\net6.0\ref\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.deps.json
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\refint\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\Pokedex\Pokedex\Database\obj\Debug\net6.0\ref\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.deps.json
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\bin\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\bin\Debug\net6.0\Pokedex.Core.Domain.pdb
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\refint\Pokedex.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\Pokedex.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\8vo trimestre\Prog III\Pokedex_Completo\Pokedex\Database\obj\Debug\net6.0\ref\Pokedex.Infrastructure.Persistence.dll

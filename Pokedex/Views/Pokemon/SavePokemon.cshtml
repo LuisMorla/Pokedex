@@ -1,0 +1,62 @@
+﻿@using Pokedex.Core.Application.ViewModel
+@model savePokemonViewModel
+
+@{
+    bool EditMode = Model.Id == 0 ? false : true;
+    ViewData["Title"] = "Guardar pokemon";
+
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <div class="card">
+                <div class="card-header bg-dark text-white">
+                    <h4>@(EditMode ? $"Editando el Pokemon: {Model.PokemonName}" : "Agregando un nuevo Pokemon")</h4>
+                </div>
+
+                <div class="card-body">
+
+                    <form method="post" asp-controller="Pokemon" asp-action="@(EditMode ? "EditPokemon" : "Create")">
+
+                        <div class="mb-3">
+                            <label asp-for="PokemonName" class="form-label">Nombre: </label>
+                            <input type="text" asp-for="PokemonName" class="form-control"/>
+                            <span asp-validation-for="PokemonName" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="PokemonDescription" class="form-label">Descripción: </label>
+                            <textarea asp-for="PokemonDescription" class="form-control"></textarea>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="PokemonImage" class="form-label">URL de la imagen: </label>
+                            <input type="text" asp-for="PokemonImage" class="form-control" />
+                            <span asp-validation-for="PokemonName" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="RegionId" class="form-label">Región: </label>
+                            <select asp-for="RegionId" asp-items="@(new SelectList(Model.regiones, "Id","Name"))" class="form-select">
+                                <option value="">Seleccione una opcion</option>
+                            </select>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="TypeId" class="form-label">Tipo: </label>
+                            <select asp-for="TypeId" asp-items="@(new SelectList(Model.tipos, "Id","Name"))" class="form-select">
+                                <option>Seleccione una opcion</option>
+                            </select>
+                            <span asp-validation-for="RegionId" class="text-danger"></span>
+                        </div>
+
+                        <input type="hidden" asp-for="Id"/>
+
+                        <button type="submit" class="btn btn-primary">Save</button>
+                        <a asp-controller="Home" asp-action="Index" class="btn btn-warning">Volver Atras</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

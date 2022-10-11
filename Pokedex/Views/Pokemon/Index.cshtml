@@ -1,0 +1,48 @@
+﻿@using Pokedex.Core.Application.ViewModel
+@model List<PokemonViewModel>
+
+
+
+
+
+<div class="container-fluid">
+
+    <div class="col-3 offset-12 mb-5">
+        <a asp-controller="Pokemon" asp-action="Create" class="btn btn btn-outline-dark">Agregar Nuevo Pokemon</a>
+    </div>
+
+    <div class="row">
+        @if (Model == null || Model.Count == 0)
+        {
+            <h2>No Hay Pokemones Registrados</h2>
+
+        }
+        else
+        {
+            @foreach (PokemonViewModel item in Model)
+            {
+                <div class="col-3">
+                    <div class="card shadow-sm">
+                        <img class="img-size-generic" src="@item.PokemonImage" />
+                        <div class="card-body">
+                            <h2>@item.PokemonName</h2>
+                            <p class="card-text">@item.PokemonDescription</p>
+                            <div class="d-flex justify-content-lg-start align-items-center col-12">
+                                <div class="btn-group">
+                                    <a class="btn btn-sm btn-outline-info" asp-controller="Pokemon" asp-action="EditPokemon" asp-route-id="@item.Id">Editar</a>
+                                    <a class="btn btn-sm btn-outline-danger" asp-controller="Pokemon" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                                </div>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted fs-6 fw-bold">Region: <strong class="text-black">@item.RegionPokemon</strong></small>
+                                <small class="text-muted fs-6 fw-bold">Tipo: <strong class="text-black">@item.TipoPokemon</strong></small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+
+
+    </div>
+</div>

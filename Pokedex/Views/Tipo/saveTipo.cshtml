@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using Pokedex.Core.Application.ViewModel
+@model saveTipoViewModel
+
+@{
+    bool EditMode = Model.Id == 0 ? false : true;
+    ViewData["Title"] = "Guardar Tipo";
+
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <div class="card">
+                <div class="card-header bg-dark text-white">
+                    <h4>@(EditMode ? $"Editando El tipo: {Model.Name}" : "Agregando un nuevo Tipo")</h4>
+                </div>
+
+                <div class="card-body">
+                    <form method="post" asp-controller="Tipo" asp-action="@(EditMode ? "EditTipo" : "saveTipo")">
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Tipo: </label>
+                            <input type="text" asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Descripción: </label>
+                            <textarea asp-for="Description" class="form-control"></textarea>
+                        </div>
+
+                        <input type="hidden" asp-for="Id" />
+
+                        <button type="submit" class="btn btn-primary">Save</button>
+                        <a asp-controller="Tipo" asp-action="Index" class="btn btn-warning">Volver Atras</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

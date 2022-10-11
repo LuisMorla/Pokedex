@@ -1,0 +1,63 @@
+﻿@using Pokedex.Core.Application.ViewModel
+@model saveRegionViewModel
+
+@{
+    bool EditMode = Model.Id == 0 ? false : true;
+    ViewData["Title"] = "Guardar pokemon";
+
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <div class="card">
+                <div class="card-header bg-dark text-white">
+                    <h4>@(EditMode ? $"Editando la región: {Model.Name}" : "Agregando una nueva Región")</h4>
+                </div>
+
+                <div class="card-body">
+                    <form method="post" asp-controller="Region" asp-action="@(EditMode ? "EditRegion" : "saveRegion")">
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Region: </label>
+                            <input type="text" asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Descripción: </label>
+                            <textarea asp-for="Description" class="form-control"></textarea>
+                        </div>
+                        @*
+                        <div class="mb-3">
+                        <label asp-for="PokemonImage" class="form-label">URL de la imagen: </label>
+                        <input type="text" asp-for="PokemonImage" class="form-control" />
+                        </div>
+
+                        <div class="mb-3">
+                        <label asp-for="RegionId" class="form-label">Región: </label>
+                        <select asp-for="RegionId" class="form-select">
+                        <option value="">Seleccione una opcion</option>
+                        <option value="1">Kanto</option>
+                        </select>
+                        </div>
+
+                        <div class="mb-3">
+                        <label asp-for="TypeId" class="form-label">Tipo: </label>
+                        <select asp-for="TypeId" class="form-select">
+                        <option value="">Seleccione una opcion</option>
+                        <option value="1">Trueno</option>
+                        <option value="2">Agua</option>
+                        <option value="3">Planta</option>
+                        </select>
+                        </div>*@
+
+                        <input type="hidden" asp-for="Id" />
+
+                        <button type="submit" class="btn btn-primary">Save</button>
+                        <a asp-controller="Region" asp-action="Index" class="btn btn-warning">Volver Atras</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

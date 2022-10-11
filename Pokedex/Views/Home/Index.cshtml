@@ -1,0 +1,85 @@
+﻿@using Pokedex.Core.Application.ViewModel;
+
+@model List<PokemonViewModel>
+@{
+}
+<div class="container-fluid">
+
+    <div class="card mb-lg-3">
+        <div class="card-header bg-dark">
+            <div class="d-flex justify-content-between align-items-center">
+                <h3 class="text-white">Listado de Pokemones</h3>
+
+                <form method="post" asp-action="Buscar" asp-controller="Home">
+                    <label class="text-white fw-bold">Buscar Pokemon:</label>
+                    <input type="text" class="text-primary" name="NamePokemonFilter" />
+                    <button type="submit" class="btn btn btn-primary">Buscar</button>
+                    <a class="btn btn-success" asp-controller="Home" asp-action="Index">Regresar a la lista de Pokemones</a>
+                </form>
+            </div>
+        </div>
+    </div>
+
+        <div class="col-12 mb-lg-5">
+            <div class="card shadow-sm">
+                <div class="card-header bg-dark">
+                    <h4 class="text-white">Filtros</h4>
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title">Regiones</h4>
+
+                    <form method="post" asp-controller="Home" asp-action="Index">
+                        <div class="mb-3">
+                            <div class="form-check">
+                                <input type="radio" class="form-check-input" value="null" name="IdRegion" id="Region-all"/>
+                                <label class="form-check-label" for="Region-all" >Todas</label>
+                            </div>
+                        </div>
+                    @foreach (RegionViewModel region in ViewBag.Region)
+                    {
+                        <div class="mb-3">
+                            <div class="form-check">
+                                <input type="radio" class="form-check-input" value="@region.Id" name="IdRegion" id="Region-@region.Id" />
+                                <label class="form-check-label" for="Region-@region.Id">@region.Name</label>
+                            </div>
+                        </div>
+                   
+                    }
+
+                    <button type="submit" class="btn btn btn-primary">Filtrar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="row">
+
+                @if (Model == null || Model.Count == 0)
+                {
+                    <h2>No Hay Pokemones en la lista, <a class="" asp-controller="Pokemon" asp-action="Index">Click aquí para crear Nuevo Pokemon</a></h2>
+                }
+                else
+                {
+                    @foreach (PokemonViewModel item in Model)
+                    {
+                        <div class="col-3">
+                            <div class="card shadow-sm">
+                                <img class="img-size-generic" src="@item.PokemonImage" />
+                                <div class="card-body">
+                                    <h4>@item.PokemonName</h4>
+                                    <p class="card-text">@item.PokemonDescription</p>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <small class="text-muted fs-6 fw-bold">Region: <strong class="text-black">@item.RegionPokemon</strong></small>
+                                        <small class="text-muted fs-6 fw-bold">Tipo: <strong class="text-black">@item.TipoPokemon</strong></small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+
+            </div>
+        </div>
+    </div>
+
+</div>
